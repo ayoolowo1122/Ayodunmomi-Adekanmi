@@ -13,7 +13,6 @@ and turning data into actionable insights.
 Below are some of the projects I have worked on:
 
 - **Sales Performance Analysis** – Identified revenue trends and top-performing products and manager.
-- **Customer Churn Analysis** – Analyzed customer behavior to reduce churn.
 - **Survey Data Analysis** – Cleaned and visualized student results.
 
 ## 📫 Contact
