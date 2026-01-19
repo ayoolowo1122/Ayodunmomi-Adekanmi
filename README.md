@@ -6,7 +6,7 @@ and turning data into actionable insights.
 ## 🔧 Tools & Skills
 - Excel
 - Power BI / Tableau
-- - SQL
+- SQL
 - Data Cleaning & Visualization
 
 ## 📊 Projects
