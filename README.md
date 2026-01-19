@@ -12,8 +12,7 @@ and turning data into actionable insights.
 ## 📊 Projects
 Below are some of the projects I have worked on:
 
-- **Sales Performance Analysis** – Identified revenue trends and top-performing products and manager.
-- **Survey Data Analysis** – Cleaned and visualized student results.
+- **Sales Performance Analysis** – Identified revenue trends, monthly trend, top-performing products and location.
 
 ## 📫 Contact
 - Email: ayoolowo1122@gmail.com
